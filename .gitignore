@@ -1,2 +1,5 @@
 /build/
 /ESP32_Robot.doxyfile
+/sdkconfig
+/Makefile
+/latex/
