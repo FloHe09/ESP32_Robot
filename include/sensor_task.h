@@ -8,12 +8,11 @@
 #ifndef INCLUDE_SENSOR_TASK_H_
 #define INCLUDE_SENSOR_TASK_H_
 
-#include "Stepper.h"
 
 
 
 /*
- * The actually task for reading and processing the sensor values
+ * task for reading and processing sensor values
  */
 void sensor_task(void *pvParameters);
 
